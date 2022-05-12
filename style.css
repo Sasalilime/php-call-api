@@ -1,0 +1,27 @@
+body {
+    box-sizing: border-box;
+    padding, margin: 0;
+    background-color: #E9B5AB;
+}
+
+.flex-container {
+    height:100vh;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    gap: 15%;
+    padding: 5rem;
+}
+
+.regions-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.region {
+    gap:1rem;
+}
