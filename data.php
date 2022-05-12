@@ -1,4 +1,4 @@
-<?php $name = "Salim Abou AbdiLlâh";
+<?php $name = "Salim ";
 
 $api_url = 'https://geo.api.gouv.fr/regions';
 
